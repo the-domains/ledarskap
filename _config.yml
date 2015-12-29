@@ -1,0 +1,28 @@
+name: ledarskap
+favicon: null
+layout_spectrum: 0.0025392367970198393
+typography_spectrum: 0.5600279162172228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11492452817037702
+  lightness: 0.978584905853495
+  saturation: 0.5633402995299548
+  rhythmicContrast: 0.17065931227989495
+purpose: []
